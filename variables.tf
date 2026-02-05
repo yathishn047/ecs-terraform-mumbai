@@ -1,5 +1,5 @@
 variable "aws_region" {
-  description = "AWSto create resources in Mumbai region"
+  description = "To create resources in Mumbai region"
   type        = string
   default     = "ap-south-1"
 }
