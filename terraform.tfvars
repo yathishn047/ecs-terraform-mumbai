@@ -4,7 +4,7 @@ aws_region       = "ap-south-1"
 # ECS configuration
 cluster_name    = "mumbai-ecs-cluster"
 service_name    = "mumbai-ecs-service"
-desired_count   = 1
+desired_count   = 2
 
 #Container configuration
 container_image = "amazon/amazon-ecs-nameTBD"
