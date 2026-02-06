@@ -37,4 +37,3 @@ variable "subnet_ids" {
   description = "Subnet IDs where ECS Fargate tasks will run"
   type        = list(string)
 }
-
